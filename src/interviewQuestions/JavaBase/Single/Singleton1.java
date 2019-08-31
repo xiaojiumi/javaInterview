@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 /**
  * 饿汉式，直接创建对象

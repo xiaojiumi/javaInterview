@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 /**
  * 1，2，3为饿汉式，没有线程安全问题 ，在类初始化是直接创建对象

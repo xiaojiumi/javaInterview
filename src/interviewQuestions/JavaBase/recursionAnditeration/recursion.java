@@ -1,4 +1,4 @@
-package interviewQuestions.recursionAnditeration;
+package interviewQuestions.JavaBase.recursionAnditeration;
 
 import org.junit.Test;
 

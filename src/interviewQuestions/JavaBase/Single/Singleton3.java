@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 import java.io.IOException;
 import java.util.Properties;

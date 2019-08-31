@@ -1,4 +1,4 @@
-package interviewQuestions.classInitialization;
+package interviewQuestions.JavaBase.classInitialization;
 
 /**
  *  1.j =method();

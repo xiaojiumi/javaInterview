@@ -1,4 +1,4 @@
-package interviewQuestions.selfIncreaseVariable;
+package interviewQuestions.JavaBase.selfIncreaseVariable;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 /**
  * 懒汉式，延迟创建实例，提供一个静态方法来获取实例对象

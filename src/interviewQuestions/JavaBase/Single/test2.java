@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 import org.junit.Test;
 

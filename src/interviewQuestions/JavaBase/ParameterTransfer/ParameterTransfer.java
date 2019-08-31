@@ -1,4 +1,4 @@
-package interviewQuestions.ParameterTransfer;
+package interviewQuestions.JavaBase.ParameterTransfer;
 
 import java.util.Arrays;
 

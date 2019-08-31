@@ -1,4 +1,4 @@
-package interviewQuestions.Single;
+package interviewQuestions.JavaBase.Single;
 
 /**
  * 在内部类被加载和初始化是，才会创建INSTANCE对象
